@@ -1,0 +1,3 @@
+Hola . Esta es una prueba de crreacion de un fichero.
+Mi nombre es Harold Cristian Vila Camacho.
+Estudiante de la materia ingenieria de Software.
